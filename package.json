@@ -1,0 +1,19 @@
+{
+  "name": "chat-app-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "^6.7.4",
+    "socket.io": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
