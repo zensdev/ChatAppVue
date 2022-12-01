@@ -81,4 +81,13 @@ body {
   padding: 15px;
   box-sizing: border-box;
 }
+
+.username {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.online {
+  font-size: 18px;
+}
 </style>
